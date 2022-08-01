@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+a {
+    color: #ff0099;
+    margin: 10px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+    padding-left: 35px;
+}
+
+h2 {
+    color: #ff0099
+}
+
+body {
+    background-image: url("assets/hatterkep.png");
+}
+
+main {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 60px;
+    padding-bottom: 40px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.junior {
+    font-weight: lighter;
+    padding-bottom: 30px;
+}
+
+.technology {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    padding-bottom: 50px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 28px;
+    padding-bottom: 50px;
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+header {
+    background-color: #333333;
+    padding: 15px;
+}
+
+.dashedline {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 50px;
+
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    margin-right: 10%;
+    font-weight: bold;
+}
+
+.logo {
+    margin-left: 10%;
+}
+
+img {
+    width: 50px;
+}
+
+footer {
+    margin: 100px;
+    text-align: center;
+}
+
+hr {
+    text-align: center;
+    margin: 100px 500px 50px 500px;
+
+}
+
+.instagram {
+    width: 138px;
+    height: 66px;
+}
+
+.facebook {
+    margin-bottom: 10px
+}
+
+h3 {
+    padding-bottom: 20px;
+    font-size: 25px;
+}
